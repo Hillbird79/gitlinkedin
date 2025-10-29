@@ -3,6 +3,7 @@ Exercise for LinkedIn Training
 
 User slash forward / in a comment box or discusssion to make creation of codeblock and list tables etc easier. copy the code here
 
+
 # Headline level 1
 Text 
 =================================
@@ -71,3 +72,28 @@ Checkboxes
  </details>
 
 @Hillbird79 Comment
+
+Colour 
+`#FABCDE`
+
+> [!NOTE]
+> A note
+
+> [!IMPORTANT] 
+> Important
+
+> [!WARNING]
+> Warning
+
+Mermaid
+```mermaid
+ graph TD;
+      A-->B;
+      A-->C;
+```
+
+graph TD;
+A-->B;
+A-->C;
+B-->D;
+C-->D;
