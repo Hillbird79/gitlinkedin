@@ -1,6 +1,8 @@
 # gitlinkedin
 Exercise for LinkedIn Training
 
+User slash forward / in a comment box or discusssion to make creation of codeblock and list tables etc easier. copy the code here
+
 # Headline level 1
 Text 
 =================================
@@ -54,4 +56,18 @@ Table
 | ---- | :----: |:----: |
 | two  |  one   |three  |
 
-/
+Checkboxes
+
+- [x] First
+       - [x] One
+       - [two]
+- [x] Second
+    - [x] One
+    - [x] Two
+
+ <details>
+  <summary>collapsed</summary>
+  # Header
+ </details>
+
+@Hillbird79 Comment
