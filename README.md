@@ -44,3 +44,14 @@ ___
   [linkedin](https://www.linkedin.com)
 
   
+This is a footnote[^1] Another footnote[2]
+
+[^1] My reference
+[^2] Another footnote
+
+Table
+| Left | Center |Right  |
+| ---- | :----: |:----: |
+| two  |  one   |three  |
+
+/
